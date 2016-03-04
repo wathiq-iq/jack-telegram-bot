@@ -4,8 +4,7 @@ _ =
   linkshorter_api_key: "f94d249d269f5ae4af107d9fdfddd36a6a88327e"
   translate_api_key: "trnsl.1.1.20160119T111342Z.fd6bf13b3590838f.6ce9d8cca4672f0ed24f649c1b502789c9f4687a"
   admins: {
-    110626080
-    123456789
+    
     --your id
   }
   plugs: {
